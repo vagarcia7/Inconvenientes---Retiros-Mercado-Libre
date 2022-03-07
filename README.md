@@ -1,0 +1,2 @@
+# Proyecto-MELI-Inconvenientes-Retiros
+La idea del proyecto es enviar emails de manera automática (sin ningún input ejecutado por el usuario) a la casilla especificada en diferentes horarios dependiendo el turno sobre diversos inconvenientes del sector reportados a IT para tener un mejor seguimiento de los casos. A su vez también hay una función que recibe la información cargada (cierre de turno) en una hoja de Sheets y la transforma con HTML en cuerpo de email y luego es enviado esto a diversas casillas.
